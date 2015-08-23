@@ -8,5 +8,12 @@
 	[
 	],
 	"overlay_scroll_bars": "enabled",
-	"theme": "Soda Dark 3.sublime-theme"
+	"theme": "Soda Dark 3.sublime-theme",
+	"detect_indentation": true,
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"trim_trailling_white_space_on_save": true
 }
