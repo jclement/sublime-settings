@@ -1,0 +1,12 @@
+{
+	"auto_id_class": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"overlay_scroll_bars": "enabled",
+	"theme": "Soda Dark 3.sublime-theme"
+}
