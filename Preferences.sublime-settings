@@ -1,19 +1,21 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"auto_id_class": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"color_scheme": "Packages/Theme - Tech49/Tech49.tmTheme",
+	"detect_indentation": true,
+	"font_face": "Monaco",
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal"
 	],
 	"overlay_scroll_bars": "enabled",
 	"theme": "Soda Dark 3.sublime-theme",
-	"detect_indentation": true,
-	"indent_guide_options":
-	[
-		"draw_normal",
-		"draw_active"
-	],
-	"trim_trailling_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true
 }
