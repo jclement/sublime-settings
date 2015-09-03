@@ -1,29 +1,25 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"auto_id_class": true,
-	"caret_extra_width": 1,
-	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - Tech49/Tech49.tmTheme",
-	"detect_indentation": true,
-	"font_face": "Monaco",
-	"highlight_line": true,
-	"bold_folder_labels": true,
-	"translate_tabs_to_spaces": true,
-	"tab_size": 4,
-	"use_tab_stops": true,
-	"rulers": [
-		120
-	],
-	"file_exclude_patterns": [
-		".DS_Store"
-	],
-	"binary_file_patterns": [
+	"binary_file_patterns":
+	[
 		".DS_Store",
 		"node_modules",
 		"bower_modules",
 		"*.min.js",
 		"tmp/"
 	],
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"detect_indentation": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store"
+	],
+	"font_face": "Monaco",
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -32,9 +28,15 @@
 	[
 		"draw_normal",
 		"draw_active"
-
 	],
 	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		120
+	],
+	"tab_size": 4,
 	"theme": "Soda Dark 3.sublime-theme",
-	"trim_trailing_white_space_on_save": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true
 }

@@ -4,6 +4,8 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
+		"Babel Snippets",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"DashDoc",
@@ -15,6 +17,7 @@
 		"LineEndings",
 		"Markdown Preview",
 		"Notes",
+		"Oceanic Next Color Scheme",
 		"Package Control",
 		"ReadmePlease",
 		"ScopeHunter",
