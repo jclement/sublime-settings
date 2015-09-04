@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"Babel",
 		"Babel Snippets",
 		"BracketHighlighter",
