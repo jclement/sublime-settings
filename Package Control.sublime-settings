@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -24,6 +25,7 @@
 		"ScopeHunter",
 		"SideBarEnhancements",
 		"Sublime Tweet",
+		"Swift for F*ing Sublime",
 		"Theme - Brogrammer",
 		"Theme - Soda",
 		"Theme - Spacegray",
