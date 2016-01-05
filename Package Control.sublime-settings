@@ -2,6 +2,8 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"DashDoc",
+		"Swift for F*ing Sublime"
 	],
 	"installed_packages":
 	[
@@ -15,7 +17,6 @@
 		"Git",
 		"GitGutter",
 		"HyperlinkHelper",
-		"JSLint",
 		"LineEndings",
 		"Markdown Preview",
 		"Notes",

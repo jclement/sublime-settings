@@ -22,6 +22,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"DashDoc",
+		"Swift for F*ing Sublime",
 		"Vintage"
 	],
 	"indent_guide_options":
