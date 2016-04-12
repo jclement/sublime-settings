@@ -12,19 +12,17 @@
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"color_scheme": "Packages/1337 Color Scheme/1337.tmTheme",
 	"detect_indentation": true,
 	"file_exclude_patterns":
 	[
 		".DS_Store"
 	],
-	"font_face": "Monaco",
-	"font_size": 9,
+	"font_face": "Code Mono",
+	"font_size": 10,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"DashDoc",
-		"Swift for F*ing Sublime",
 		"Vintage"
 	],
 	"indent_guide_options":
