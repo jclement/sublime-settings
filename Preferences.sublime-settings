@@ -1,4 +1,11 @@
 {
+	"added_words":
+	[
+		"Blockly",
+		"Blog",
+		"Pandell",
+		"Peleton"
+	],
 	"auto_complete_commit_on_tab": true,
 	"auto_id_class": true,
 	"binary_file_patterns":
@@ -18,7 +25,8 @@
 	[
 		".DS_Store"
 	],
-	"font_face": "Monaco",
+	"font_face": "Input Mono",
+	"font_size": 10,
 	"highlight_line": true,
 	"ignored_packages":
 	[
