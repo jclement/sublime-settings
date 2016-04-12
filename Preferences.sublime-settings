@@ -1,11 +1,4 @@
 {
-	"added_words":
-	[
-		"Blockly",
-		"Blog",
-		"Pandell",
-		"Peleton"
-	],
 	"auto_complete_commit_on_tab": true,
 	"auto_id_class": true,
 	"binary_file_patterns":
@@ -19,17 +12,19 @@
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/1337 Color Scheme/1337.tmTheme",
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
 	"detect_indentation": true,
 	"file_exclude_patterns":
 	[
 		".DS_Store"
 	],
-	"font_face": "Input Mono",
-	"font_size": 10,
+	"font_face": "Monaco",
+	"font_size": 9,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"DashDoc",
+		"Swift for F*ing Sublime",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -42,7 +37,7 @@
 	[
 		120
 	],
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,

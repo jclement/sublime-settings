@@ -2,6 +2,8 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"DashDoc",
+		"Swift for F*ing Sublime"
 	],
 	"installed_packages":
 	[
@@ -16,7 +18,6 @@
 		"Git",
 		"GitGutter",
 		"HyperlinkHelper",
-		"JSLint",
 		"LineEndings",
 		"Markdown Preview",
 		"Notes",
@@ -27,9 +28,11 @@
 		"SideBarEnhancements",
 		"Sublime Tweet",
 		"Theme - Brogrammer",
+		"Theme - Numix",
 		"Theme - Soda",
 		"Theme - Spacegray",
 		"Theme - Tech49",
+		"Theme - Watson",
 		"TodoReview",
 		"Vintageous"
 	]
