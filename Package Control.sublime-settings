@@ -15,12 +15,16 @@
 		"Emmet",
 		"Git",
 		"GitGutter",
+		"HTML-CSS-JS Prettify",
 		"HyperlinkHelper",
 		"LineEndings",
 		"Markdown Preview",
 		"Notes",
 		"Oceanic Next Color Scheme",
 		"Package Control",
+		"PlainTasks",
+		"PowerShell",
+		"Pretty JSON",
 		"ReadmePlease",
 		"ScopeHunter",
 		"SideBarEnhancements",
@@ -32,6 +36,7 @@
 		"Theme - Tech49",
 		"Theme - Watson",
 		"TodoReview",
+		"VBDotNet",
 		"Vintageous"
 	]
 }
