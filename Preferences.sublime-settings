@@ -18,7 +18,7 @@
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/1337 Color Scheme/1337.tmTheme",
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
 	"detect_indentation": true,
 	"file_exclude_patterns":
 	[
@@ -29,6 +29,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"LineEndings",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -43,7 +44,7 @@
 		120
 	],
 	"tab_size": 2,
-	"theme": "Soda Dark 3.sublime-theme",
+	"theme": "Spacegray Oceanic.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true
